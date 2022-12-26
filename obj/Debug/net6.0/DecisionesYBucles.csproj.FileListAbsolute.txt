@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\bin\Debug\net6.0\DecisionesYBucles.exe
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\bin\Debug\net6.0\DecisionesYBucles.deps.json
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\bin\Debug\net6.0\DecisionesYBucles.runtimeconfig.json
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\bin\Debug\net6.0\DecisionesYBucles.dll
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\bin\Debug\net6.0\DecisionesYBucles.pdb
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.AssemblyInfo.cs
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.dll
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\refint\DecisionesYBucles.dll
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.pdb
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\DecisionesYBucles.genruntimeconfig.cache
+C:\Users\Elizabeth\source\repos\DecisionesYBucles\obj\Debug\net6.0\ref\DecisionesYBucles.dll
