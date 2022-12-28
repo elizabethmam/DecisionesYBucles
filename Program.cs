@@ -66,7 +66,7 @@ bool loguedx = true;
 string estaLogueadx = loguedx ? "Bienvenidx" : "Inicia sesión";
 Console.WriteLine($"¿Está logueadx? {estaLogueadx}");
 
-//Switch
+//Sentencia Switch
 int lugar = 2;
 
 switch(lugar)
@@ -81,3 +81,8 @@ switch(lugar)
     default: Console.WriteLine("Fin");
         break;
 }
+
+//Operadores relacionales
+int temperatura = 35;
+
+string mensaje 
