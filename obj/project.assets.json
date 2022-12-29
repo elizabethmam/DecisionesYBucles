@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Elizabeth\\.nuget\\packages\\": {}
+    "C:\\Users\\lorenag\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elizabeth\\source\\repos\\DecisionesYBucles\\DecisionesYBucles.csproj",
+      "projectUniqueName": "C:\\Aplicaciones\\Consola\\DecisionesYBucles\\DecisionesYBucles.csproj",
       "projectName": "DecisionesYBucles",
-      "projectPath": "C:\\Users\\Elizabeth\\source\\repos\\DecisionesYBucles\\DecisionesYBucles.csproj",
-      "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elizabeth\\source\\repos\\DecisionesYBucles\\obj\\",
+      "projectPath": "C:\\Aplicaciones\\Consola\\DecisionesYBucles\\DecisionesYBucles.csproj",
+      "packagesPath": "C:\\Users\\lorenag\\.nuget\\packages\\",
+      "outputPath": "C:\\Aplicaciones\\Consola\\DecisionesYBucles\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lorenag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
